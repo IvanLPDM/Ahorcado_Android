@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Personaliza los colores principales del tema -->
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryDark">#0B3C0D</item>
+        <item name="colorAccent">#BC0C9F</item>
+
+    </style>
+
+    <!-- Nuestro estilo del splash Screen -->
+    <!-- Creamos nuevo estilo -->
+    <style name="SplashTheme">
+        <item name="android:windowBackground">@drawable/ic_launcher_foreground</item>
+    </style>
+
+
+
+</resources>
